@@ -3,6 +3,7 @@
 ##		2. Aaron Biju Mathews(s3854257)
 
 # Instructions and Notes
-# Note- Please make sure to install all the libraries and packages present in the 'Assignment2.ipynb' to avoid any issues while running the file. 
+# Note- Please make sure to install all the libraries and packages present in the 'Assignment2.ipynb' to avoid any issues while running the file.
+# Dataset: https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records
 # All libraries and packages used in the code are present in cell [2].
 # Go to Cell -> Run All, to execute all the cells.
